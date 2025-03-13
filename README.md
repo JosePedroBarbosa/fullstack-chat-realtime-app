@@ -7,6 +7,7 @@ This repository contains a real-time chat application built using a modern full-
 ### Frontend
 - **React**: Framework for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for responsive design.
+- **Daisy UI**: Component library built on top of Tailwind CSS for rapid UI development.
 
 ### Backend
 - **Node.js**: JavaScript runtime for server-side programming.
@@ -18,8 +19,9 @@ This repository contains a real-time chat application built using a modern full-
 
 ## Features
 
-- User registration and authentication.
+- User Authentication && Authorization with JWT
 - Real-time messaging between users.
+- Online user status
 - Responsive interface for desktop and mobile devices.
 - Message history persisted in the database.
 - [Live Demo](https://fullstack-chat-realtime-app-u02h.onrender.com/)
